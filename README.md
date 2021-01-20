@@ -2,7 +2,8 @@
 
 A new Flutter application.
 
-
+<img src ="preview.jpg" width ="350">
+<img src ="preview.gif" width ="200">
 
 ## App design from Dribble.com
 ## Getting Started
