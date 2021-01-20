@@ -1,7 +1,7 @@
 # shoe_ecommerce_app
 
 A new Flutter application.
-<img src ="preview.jpg">
+<img src ="preview.jpg" width ="550">
 <img src ="preview.gif">
 
 
